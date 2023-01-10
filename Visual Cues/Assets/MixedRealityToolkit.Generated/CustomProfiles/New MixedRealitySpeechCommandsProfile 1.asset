@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1f18fec9b55c4f818e284af454161962, type: 3}
+  m_Name: New MixedRealitySpeechCommandsProfile 1
+  m_EditorClassIdentifier: 
+  isCustomProfile: 1
+  startBehavior: 0
+  recognitionConfidenceLevel: 1
+  speechCommands:
+  - localizationKey: 
+    keyword: Toggle Collocated Cues
+    keyCode: 49
+    action:
+      id: 0
+      description: Toggle Profiler
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Toggle HUD Cues
+    keyCode: 50
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Obstacles Front
+    keyCode: 56
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Toggle Debug
+    keyCode: 57
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Rotate Left
+    keyCode: 276
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Rotate Right
+    keyCode: 275
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Toggle Calibration
+    keyCode: 99
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Toggle Gestures
+    keyCode: 103
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Shift HUD Right
+    keyCode: 108
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Shift HUD Left
+    keyCode: 106
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Increase HUD Size
+    keyCode: 105
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Decrease HUD Size
+    keyCode: 107
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Begin Logging
+    keyCode: 51
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: End Logging
+    keyCode: 52
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Increase Front Angle
+    keyCode: 91
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Decrease Front Angle
+    keyCode: 93
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Increase HUD Threshold
+    keyCode: 59
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Decrease HUD Threshold
+    keyCode: 39
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Raise High Obstacles
+    keyCode: 273
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0
+  - localizationKey: 
+    keyword: Lower High Obstacles
+    keyCode: 274
+    action:
+      id: 0
+      description: None
+      axisConstraint: 0

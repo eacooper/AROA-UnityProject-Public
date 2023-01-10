@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/Visual Cues v1.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Scenes/Visual Cues v2.unity
+    guid: bcfce4ee423c5134eba0935249404919
+  - enabled: 0
+    path: Assets/Scenes/Visual Cues v3.unity
+    guid: cc6cc0ea0660be74abaf9d58062a1a1f
+  - enabled: 0
+    path: Assets/Scenes/Visual Cues v4a.unity
+    guid: 6539b7b49bf561841999a865182e4fc7
+  - enabled: 0
+    path: Assets/Scenes/Visual Cues v5a QR.unity
+    guid: 66aedfd8076d4d64f9525140b472244e
+  - enabled: 0
+    path: Assets/Scenes/Visual Cues v6a.unity
+    guid: 890f13caf0f7da341a0267c3fd142dcd
+  - enabled: 0
+    path: Assets/Scenes/Visual Cues v7a_Hallway.unity
+    guid: f822ec7e2f41efb4e91ceeb0506d32bb
+  - enabled: 1
+    path: Assets/Scenes/Visual Cues_Hallway.unity
+    guid: e28271752ca55614ab8879168ff7f174
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: f244be48151006f44b69a854d68ddf41,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: f0686d8b0de001d4d93de3f4a99093fa,
+      type: 2}
